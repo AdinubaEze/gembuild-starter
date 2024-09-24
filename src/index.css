@@ -211,8 +211,8 @@ textarea {
   background: var(--primary);
   background: linear-gradient(190deg, var(--primary) 0%, transparent 100%);
   border-radius: 50%;
-  -webkit-filter: blur(150px);
-  filter: blur(150px);
+  -webkit-filter: blur(50px);
+  filter: blur(50px);
   z-index: 0;
 }
 
